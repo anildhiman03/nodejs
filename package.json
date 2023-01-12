@@ -4,7 +4,7 @@
   "description": "all nodejs projects comes here Please check the list below",
   "main": "index.js",
   "scripts": {
-    "start":"nodemon index.ts",
+    "start": "nodemon index.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
